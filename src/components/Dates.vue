@@ -12,7 +12,7 @@
         <div class="col-md-3">
           <div class="counter-col">
             <div class="counter-data">
-              <div class="count theme-color font-alt">July 10th, 2019</div>
+              <div class="count theme-color font-alt">July 19th, 2019</div>
               <p class="count-text">Workshop Papers submission</p>
             </div>
           </div> <!-- count col -->
