@@ -26,8 +26,8 @@
                 solutions and new views for resolving environmental, human rights, social conflicts and many
                 other issues..</p>
               <div class="p-15px-t">
-                <a class="btn btn-theme" href="https://www.easychair.org/conferences/?conf=SIWEB2019"
-                   target="_blank">Submit your draft</a>
+                <a class="btn btn-theme" href="https://wi-lab.com/cyberchair/2019/wi19/scripts/submit.php?subarea=S10&undisplay_detail=1&wh=/cyberchair/2019/wi19/scripts/ws_submit.php"
+                   target="_blank">Submit your paper</a>
               </div>
             </div>
           </div> <!-- col -->
