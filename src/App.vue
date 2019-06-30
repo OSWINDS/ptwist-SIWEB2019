@@ -6,6 +6,7 @@
     <Dates/>
     <Chairs/>
     <Committee/>
+    <Registration/>
     <Footer/>
   </div>
 </template>
@@ -18,11 +19,12 @@ import Chairs from './components/Chairs.vue'
 import Committee from './components/Committee.vue'
 import Footer from './components/Footer.vue'
 import Header from './components/Header.vue'
+import Registration from './components/Registration.vue'
 
 export default {
   name: 'app',
   components: {
-    Nav, Header, Topics, Dates, Committee, Chairs, Footer
+    Nav, Header, Topics, Dates, Committee, Chairs, Registration, Footer
   }
 }
 </script>
