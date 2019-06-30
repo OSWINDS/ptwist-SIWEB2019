@@ -19,7 +19,7 @@
             <li><a class="nav-link" href="#committee">Program Comittee</a></li>
 
             <li><a class="nav-link-btn btn btn-theme m-15px-l md-m-0px-l"
-                   href="https://www.easychair.org/conferences/?conf=SIWEB2019" target="_blank">Submit Draft</a>
+                   href="https://wi-lab.com/cyberchair/2019/wi19/scripts/submit.php?subarea=S10&undisplay_detail=1&wh=/cyberchair/2019/wi19/scripts/ws_submit.php" target="_blank">Submit Your Paper</a>
             </li>
           </ul>
         </div>
