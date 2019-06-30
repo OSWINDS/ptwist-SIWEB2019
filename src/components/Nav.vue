@@ -17,6 +17,7 @@
             <li><a class="nav-link" href="#dates">Dates</a></li>
             <li><a class="nav-link" href="#chairs">Workshop Chairs</a></li>
             <li><a class="nav-link" href="#committee">Program Committee</a></li>
+            <li><a class="nav-link" href="#registration">Registration</a></li>
 
             <li><a class="nav-link-btn btn btn-theme m-15px-l md-m-0px-l"
                    href="https://wi-lab.com/cyberchair/2019/wi19/scripts/submit.php?subarea=S10&undisplay_detail=1&wh=/cyberchair/2019/wi19/scripts/ws_submit.php" target="_blank">Submit Your Paper</a>
